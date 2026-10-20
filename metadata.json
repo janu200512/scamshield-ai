@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI — Scam Detection & Project Hub",
+  "description": "AI-powered cybersecurity tool to detect phishing messages, SMS fraud, malicious links, and assess GitHub project readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
